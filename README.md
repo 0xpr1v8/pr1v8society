@@ -96,6 +96,6 @@ _alguns dados compilados sobre programação, hacking, criptografia, privacidade
  
  ### Wiki
  
-   A wiki é composta por material de nosso grupo e canal do telegram, os issues abertos e material mais específico que não foi postado em nenhum dos outros dois, compilado e organizado..
+   A wiki é composta por material de nosso grupo e canal do telegram, os issues abertos e material mais específico que não foi postado em nenhum dos outros dois, compilado e organizado.
 
    Apenas admins podem modificar a wiki, então sugiro que a visite: [wiki](https://github.com/0xpr1v8/pr1v8society/wiki)
