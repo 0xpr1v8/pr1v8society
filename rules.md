@@ -1,22 +1,22 @@
 ### Mensagens dos Integrantes:
 
->Ser sensato e racional ao enviar uma mensagem
+  * Ser sensato e racional ao enviar uma mensagem
 
->Proíbido enviar mensagens que sejam ofensivas a outros integrantes
+  * Proíbido enviar mensagens que sejam ofensivas a outros integrantes
 
->Caso seja um código de programação, utilize plataformas como: pastebin, ghostbin, etc.
+  * Caso seja um código de programação, utilize plataformas como: pastebin, ghostbin, etc.
 
->Proíbido enviar mensagens sobre entretenimento adulto
+  * Proíbido enviar mensagens sobre entretenimento adulto
 
->Proíbido enviar mais de 1 mensagem em um intervalo de 2 segundos
+  * Proíbido enviar mais de 1 mensagem em um intervalo de 2 segundos
 
->Limitar o tamanho da mensagem para 100 caracteres a cada envio
+  * Limitar o tamanho da mensagem para 100 caracteres a cada envio
 
->Tente ajudar em algum dos nossos projetos: https://github.com/0xpr1v8/pr1v8society
+  * Tente ajudar em algum dos nossos projetos: https://github.com/0xpr1v8/pr1v8society
 
->Não mandar links encurtados
+  * Não mandar links encurtados
 
->Tretas devem ser resolvidas no privado
+  * Tretas devem ser resolvidas no privado
 
 ----
 
