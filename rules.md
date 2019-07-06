@@ -1,4 +1,4 @@
-### Mensagens dos Integrantes:
+## Mensagens dos Integrantes:
 
   * Ser sensato e racional ao enviar uma mensagem
 
@@ -20,28 +20,28 @@
 
 ----
 
-### Anúncios:
+## Anúncios:
 
->Texto deve conter até 70 caracteres
+  * Texto deve conter até 70 caracteres
 
->Seguir modelo de post de acordo com o canal oficial do grupo
+  * Seguir modelo de post de acordo com o canal oficial do grupo
 
->Link não deve ser encurtado
+  * Link não deve ser encurtado
 
->Colocar classificação do site no rodapé do post de acordo com: https://sitecheck.sucuri.net/ , etc.
+  * Colocar classificação do site no rodapé do post de acordo com: https://sitecheck.sucuri.net/ , etc.
 
->Estar dentro dos tópicos do grupo.
+  * Estar dentro dos tópicos do grupo.
 
 ----
 
-### Envio de Arquivos(Recomendado):
+## Envio de Arquivos(Recomendado):
 
->Conter hash
+  * Conter hash
 
->Conter intuíto de envio
+  * Conter intuíto de envio
 
->Caso for um livro enviar com data de produção do mesmo
+  * Caso for um livro enviar com data de produção do mesmo
 
->Nome do Autor
+  * Nome do Autor
 
->Atribuir TAGS ao arquivo, pegue como exemplo os posts do canal oficial do grupo
+  * Atribuir TAGS ao arquivo, pegue como exemplo os posts do canal oficial do grupo
