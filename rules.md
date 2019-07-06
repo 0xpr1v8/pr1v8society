@@ -1,4 +1,4 @@
-#Mensagens dos Integrantes:
+###Mensagens dos Integrantes:
 
 >Ser sensato e racional ao enviar uma mensagem
 
@@ -20,7 +20,7 @@
 
 ----
 
-#Anúncios:
+###Anúncios:
 
 >Texto deve conter até 70 caracteres
 
@@ -34,7 +34,7 @@
 
 ----
 
-#Envio de Arquivos(Recomendado):
+###Envio de Arquivos(Recomendado):
 
 >Conter hash
 
