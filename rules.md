@@ -17,6 +17,8 @@
   * Não mandar links encurtados
 
   * Tretas devem ser resolvidas no privado
+  
+  * Evite perguntas que tenha algum relacionamento com Carding
 
 ----
 
