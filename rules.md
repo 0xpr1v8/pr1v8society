@@ -19,6 +19,8 @@
   * Tretas devem ser resolvidas no privado
   
   * Evite perguntas que tenha algum relacionamento com Carding
+  
+  * Evite perguntas pessoais a outros membros
 
 ----
 
