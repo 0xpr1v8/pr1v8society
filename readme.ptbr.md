@@ -1,5 +1,8 @@
-## pt-br
+# pr1v8society
 
+_Um compilado de informações sobre programação, hacking, criptografia, privacidade, etc._
+
+----
 
 ### tl;dr
 
@@ -15,7 +18,6 @@
 ---
 
 
-
   Se você for abrir um issue, siga essas "regras":
 
   * no título use uma tag correspondente ao tópico do issue, exemplo: **[pergunta], [sugestao], [links], [dica]**. Sinta-se livre para criar uma nova tag!
@@ -24,7 +26,7 @@
   
   * seja o mais simples e direto possível.
   
-  * Verifique se um issue parecido já não foi aberto.
+  * Verifique se um issue parecido já não foi aberto antes de abrir um novo.
 
   **issue simple template**
  
