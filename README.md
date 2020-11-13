@@ -1,4 +1,7 @@
-# pr1v8society
+<p align="center">
+  <img width="303" src="https://raw.githubusercontent.com/0xpr1v8/pr1v8society/master/images/logo.png">
+</p>
+<h1 align="center">pr1v8society</h1>
 
 _some compiled data about programming, hacking, cryptography, privacy, etc._
 
